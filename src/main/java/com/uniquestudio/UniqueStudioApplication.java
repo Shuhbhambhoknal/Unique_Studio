@@ -3,6 +3,7 @@ package com.uniquestudio;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+//Main lass
 @SpringBootApplication
 public class UniqueStudioApplication {
 
